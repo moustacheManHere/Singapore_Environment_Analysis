@@ -1,0 +1,255 @@
+# Metadata for Publication of Building Energy Performance Data
+---
+Identifier: 'e3807d35-9373-4d74-b8ca-e5c70f397685'
+Name: 'building-energy-performance-data'
+Title: 'Publication of Building Energy Performance Data'
+Description:
+  - 'This dataset contains the building energy performance data collected through
+    BCA’s Building Energy Submission System (BESS), under the legislation on Annual
+    Mandatory Submission of Building Information and Energy Consumption Data for Section
+    22FJ ‘Powers to Obtain Information’ of Building Control Act.'
+  - ''
+  - 'Note: The data are declared by building owners and might be updated from time
+    to time.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'EUI'
+  - 'Energy'
+  - 'Energy Use Intensity'
+  - 'Property'
+  - 'benchmark'
+  - 'building'
+  - 'energy performance data'
+  - 'green building'
+  - 'green mark'
+Publisher:
+  Name: 'Building and Construction Authority'
+  Admin 1:
+    Name: 'Choo See Loke'
+    Department: 'Green Building Policy Department'
+    Email: 'choo_see_loke@bca.gov.sg'
+  Admin 2:
+    Name: 'Felix Teo'
+    Department: 'Green Building Policy Department'
+    Email: 'felix_teo@bca.gov.sg'
+Sources:
+  - 'Building and Construction Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2018-01-01 to 2020-12-31'
+Last Updated: '2021-11-03T08:58:44.849489'
+Resources:
+  -
+    Identifier: '17c5cf53-9b5c-428b-a5b7-d88b8071d4af'
+    Title: 'Listing of Building Energy Performance Data for Commercial Buildings'
+    Url: 'https://storage.data.gov.sg/building-energy-performance-data/resources/listing-of-building-energy-performance-data-for-commercial-buildings-2020-01-10T06-30-14Z.csv'
+    Format: 'CSV'
+    Coverage: '2018-01-01 to 2018-12-31'
+    Last Updated: '2020-01-10T06:30:14.284136'
+    Schema:
+      -
+        Name: 'buildingname'
+        Title: 'Building Name'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'buildingaddress'
+        Title: 'Building Address'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'buildingtype'
+        Title: 'Building Type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Office Building, Hotel, Retail Building, Mixed Development'
+      -
+        Name: 'greenmarkstatus'
+        Title: 'Green Mark Status'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Yes – Green Mark building;'
+          - 'No – non-Green Mark building'
+      -
+        Name: 'greenmarkrating'
+        Title: 'Green Mark Rating'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'greenmarkyearaward'
+        Title: 'Green Mark Year of Award'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'buildingsize'
+        Title: 'Building Size'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'grossfloorarea'
+        Title: 'Gross Floor Area (m2)'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Large Size Commercial Buildings:'
+          - 'i) Office Building, Retail Building, and Mixed Development - GFA ≥ 15,000
+            m2'
+          - 'ii) Hotel - GFA ≥ 7,000 m2'
+          - ''
+          - 'Small Size Commercial Buildings::'
+          - 'i) Office Building, Retail Building, and Mixed Development - GFA < 15,000
+            m2'
+          - 'ii) Hotel - GFA < 7,000 m2'
+      -
+        Name: '2017energyuseintensity'
+        Title: '2017energyuseintensity'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: '2018energyusintensity'
+        Title: '2018energyusintensity'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'voluntarydisclosure'
+        Title: 'Voluntary Disclosure'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Y = Yes'
+          - 'N = No'
+  -
+    Identifier: 'bef93f85-13df-495a-9cb7-79b10c51bff2'
+    Title: 'Listing of Building Energy Performance Data 2019'
+    Url: 'https://storage.data.gov.sg/building-energy-performance-data/resources/listing-of-building-energy-performance-data-2019-2021-02-01T10-44-15Z.xlsx'
+    Format: 'XLSX'
+    Coverage: '2019-01-01 to 2019-12-31'
+    Last Updated: '2021-02-01T10:44:15.073127'
+  -
+    Identifier: 'b94f9f57-f2a4-4219-ab7b-375f73e9197a'
+    Title: 'Listing of Building Energy Performance Data 2020'
+    Url: 'https://storage.data.gov.sg/building-energy-performance-data/resources/listing-of-building-energy-performance-data-2020-2021-11-03T08-54-42Z.csv'
+    Format: 'CSV'
+    Coverage: '2020-01-01 to 2020-12-31'
+    Description: 'Listing of Building Energy Performance Data 2020'
+    Last Updated: '2021-11-03T08:54:42.429940'
+    Schema:
+      -
+        Name: 'buildingname'
+        Title: 'Buildingname'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'buildingaddress'
+        Title: 'Buildingaddress'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'buildingtype'
+        Title: 'Buildingtype'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'mainbuildingfunction'
+        Title: 'Mainbuildingfunction'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'buildingsize'
+        Title: 'Buildingsize'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'yearobtainedtopcsc'
+        Title: 'Yearobtainedtopcsc'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'greenmarkrating'
+        Title: 'Greenmarkrating'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'greenmarkyearofaward'
+        Title: 'Greenmarkyearofaward'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'greenmarkversion'
+        Title: 'Greenmarkversion'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'grossfloorarea'
+        Title: 'Grossfloorarea'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'percentageofairconditionedfloorarea'
+        Title: 'Percentageofairconditionedfloorarea'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'averagemonthlybuildingoccupancyrate'
+        Title: 'Averagemonthlybuildingoccupancyrate'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'numberofhotelrooms'
+        Title: 'Numberofhotelrooms'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'typeofairconditioningsystem'
+        Title: 'Typeofairconditioningsystem'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'ageofchiller'
+        Title: 'Ageofchiller'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'centralisedairconditioningplantefficiency'
+        Title: 'Centralisedairconditioningplantefficiency'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'yearoflastchillerplantaudithealthcheck'
+        Title: 'Yearoflastchillerplantaudithealthcheck'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'percentageusageofled'
+        Title: 'Percentageusageofled'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'installationofsolarpv'
+        Title: 'Installationofsolarpv'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: '2017'
+        Title: '2017'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: '2018'
+        Title: '2018'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: '2019'
+        Title: '2019'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: '2020'
+        Title: '2020'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'EUI'

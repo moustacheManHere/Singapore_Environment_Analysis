@@ -1,0 +1,21 @@
+manufactured,pollutant,accuracy
+Chemicals & Chemical ProductsRefined Petroleum ProductsPharmaceutical & Biological Products,co_max_8hour_mean,0.17308751611137316
+Chemicals & Chemical ProductsRefined Petroleum ProductsPharmaceutical & Biological Products,nitrogen_dioxide_mean,-3.1928434497823983
+Chemicals & Chemical ProductsRefined Petroleum ProductsPharmaceutical & Biological Products,ozone_maximum_8hour_mean,-8.79964606433413
+Chemicals & Chemical ProductsRefined Petroleum ProductsPharmaceutical & Biological Products,sulphur_dioxide_mean,-0.98767656147006
+"Food, Beverage & TobaccoOther Manufacturing Industries",co_max_8hour_mean,-78.97422172553188
+"Food, Beverage & TobaccoOther Manufacturing Industries",nitrogen_dioxide_mean,-4.132082660737397
+"Food, Beverage & TobaccoOther Manufacturing Industries",ozone_maximum_8hour_mean,-9.628756060493396
+"Food, Beverage & TobaccoOther Manufacturing Industries",sulphur_dioxide_mean,-4.844012668836887
+"Non-Metallic Mineral ProductsBasic MetalFabricated Metal ProductsComputer, Electronic & Optical ProductsElectrical EquipmentMachinery & EquipmentMotor Vehicles, Trailers & Semi-TrailersOther Transport Equipment",co_max_8hour_mean,-4.0752631915933515
+"Non-Metallic Mineral ProductsBasic MetalFabricated Metal ProductsComputer, Electronic & Optical ProductsElectrical EquipmentMachinery & EquipmentMotor Vehicles, Trailers & Semi-TrailersOther Transport Equipment",nitrogen_dioxide_mean,-9.913533770125714
+"Non-Metallic Mineral ProductsBasic MetalFabricated Metal ProductsComputer, Electronic & Optical ProductsElectrical EquipmentMachinery & EquipmentMotor Vehicles, Trailers & Semi-TrailersOther Transport Equipment",ozone_maximum_8hour_mean,-20.594923085655317
+"Non-Metallic Mineral ProductsBasic MetalFabricated Metal ProductsComputer, Electronic & Optical ProductsElectrical EquipmentMachinery & EquipmentMotor Vehicles, Trailers & Semi-TrailersOther Transport Equipment",sulphur_dioxide_mean,-19.00169771600445
+"Textiles & Textile ManufacturesWearing ApparelLeather, Leather Products & FootwearRubber & Plastic Products",co_max_8hour_mean,-86.40460892768387
+"Textiles & Textile ManufacturesWearing ApparelLeather, Leather Products & FootwearRubber & Plastic Products",nitrogen_dioxide_mean,-3.0507838682429353
+"Textiles & Textile ManufacturesWearing ApparelLeather, Leather Products & FootwearRubber & Plastic Products",ozone_maximum_8hour_mean,-147.10369453776687
+"Textiles & Textile ManufacturesWearing ApparelLeather, Leather Products & FootwearRubber & Plastic Products",sulphur_dioxide_mean,-8.314520910408541
+Wood & Wood ProductsPaper & Paper ProductsPrinting & Reproduction Of Recorded MediaFurniture,co_max_8hour_mean,-1.590510046759904
+Wood & Wood ProductsPaper & Paper ProductsPrinting & Reproduction Of Recorded MediaFurniture,nitrogen_dioxide_mean,-6.141054563094928
+Wood & Wood ProductsPaper & Paper ProductsPrinting & Reproduction Of Recorded MediaFurniture,ozone_maximum_8hour_mean,-40.897910974229625
+Wood & Wood ProductsPaper & Paper ProductsPrinting & Reproduction Of Recorded MediaFurniture,sulphur_dioxide_mean,-2.4736484654132607
